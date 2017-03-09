@@ -1,1 +1,5 @@
 # loadtest
+
+```
+$ ./run.sh
+```
